@@ -14,9 +14,13 @@ Bakwaas!
 
 I am in!
 
+<<<<<<< HEAD
 
 insertion here.........
 
+=======
+I am wired!
+>>>>>>> 4229d10ef945c4cd8c10faaef56733bc6c74035e
 
 We bring your house down!!!!!!!!!!
 
